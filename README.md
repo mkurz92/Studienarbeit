@@ -1,6 +1,6 @@
 # Studienarbeit
 
-Studienarbeit von Markus Kurz
+Studienarbeit von Markus Kurz - 2018
 
 Thema: Entwicklung eines modularen MATLAB-Programms zur automatisierten Auswertung und Darstellung der thermodynamischen Zustandsgrößen im Feuersteg
 
@@ -11,9 +11,9 @@ Zunächst wird die Verkippung des Kolbens, sowie der daraus resultierende Abstan
 
 
 
-Study thesis of Markus Kurz
+Study thesis of Markus Kurz - 2018
 
-Topic: Development of a modular MATLAB program for automated evaluation and il-lustration of the thermodynamic state variables in the top land
+Topic: Development of a modular MATLAB program for automated evaluation and illustration of the thermodynamic state variables in the top land
 
 Abstract of the thesis:
 
